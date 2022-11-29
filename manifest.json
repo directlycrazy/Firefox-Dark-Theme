@@ -1,6 +1,6 @@
 {
-	"name": "Firefox Dark Colors",
-	"version": "1.1",
+	"name": "Firefox Dark Theme",
+	"version": "1.2",
 	"description": "Give your Chromium browser the colors of Firefox Dark mode",
 	"manifest_version": 2,
 	"theme": {
